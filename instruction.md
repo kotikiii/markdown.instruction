@@ -12,6 +12,14 @@ Alternatives for asterisk(*) exist for the cases where both bold and italic emph
 
 ## Working with images
 
+To add an image, you need to write this formula:
+
+ ![alternative text in case of error](path to image itself)
+
+For example:
+
+![that's my cat](1cat.jpeg)
+
 ## Working with links
 
 ## Working with tables
