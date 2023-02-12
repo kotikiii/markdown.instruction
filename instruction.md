@@ -43,7 +43,3 @@ To add a table, use three or more hyphens (---) to create each column’s header
 | Uzbekistan| Uzbek   |
 | Germany   | German  |
 
-
-## Quotos 
-
-## Conclusion
