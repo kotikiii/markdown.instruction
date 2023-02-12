@@ -31,6 +31,9 @@ For example:
 
 ## Working with links
 
+To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses. For example:
+[my channel :D](https://t.me/kotikiaaaaaaa)
+
 ## Working with tables
 
 ## Quotos 
