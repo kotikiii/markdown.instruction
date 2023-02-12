@@ -9,7 +9,6 @@ To italicize text, add one asterisk(*) or underscore(_) before and after a word 
 Alternatives for asterisk(*) exist for the cases where both bold and italic emphasises are needed. For example, *__cats are the cutest creatures__* (both styles are used)
 
 ## Lists
-To add unordered list, use astersike(*)
 
 To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one. Like this: 
 1. Element 1
